@@ -13,10 +13,10 @@ basic_info:
     last_name: Portes
     
     # Define yourself in 4-5 words
-    motto: I love animals
+    motto: Amo los animales  
     
     # Focus
-    focus: Rescue all street animals
+    focus: Rescatar todos los animales posibles.
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: Actualmente estudio en un bootcamp de "Full Stack" en la escuela "4geeks". Antes de eso, estudié la carrera de Diseño UX/UI, Product Design y Marketing Digital y me gustaría complementar mis conocimientos actuales con los que estoy adquiriendo ahora para que en algún momento pueda trabajar como freelance y ofrecer servicios de Diseño y Desarrollo de Aplicaciones y Marketing Digital para los emprendedores y/o empresari@s que deseen crecer sus negocios a través de medios digitales.
@@ -41,19 +41,19 @@ basic_info:
 
     # Languages you speak, levels include: Native, Professional
     languages:
-      - idiom: Spanish
-        level: Native
+      - idiom: Español
+        level: Nativa
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglés
+        level: Profesional
 
     # Interests or hobbies
     interests:
-      - item: Music
+      - item: Música
 
-      - item: Cooking
+      - item: Repostería
 
-      - item: Swimming
+      - item: Viajar
 
 # Your previous education
 education:
