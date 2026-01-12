@@ -19,13 +19,7 @@ basic_info:
     focus: Rescue all street animals
     
     # You have 1 paragraph to make a great impression, summarize your career
-    summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    summary: Actualmente estudio en un bootcamp de "Full Stack" en la escuela "4geeks". Antes de eso, estudié la carrera de Diseño UX/UI, Product Design y Marketing Digital y me gustaría complementar mis conocimientos actuales con los que estoy adquiriendo ahora para que en algún momento pueda trabajar como freelance y ofrecer servicios de Diseño y Desarrollo de Aplicaciones y Marketing Digital para los emprendedores y/o empresari@s que deseen crecer sus negocios a través de medios digitales.
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
@@ -34,15 +28,15 @@ basic_info:
     # Contact Information
     email: erikaportes@gmail.com #optional
     phone: 55 5555 5555 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    website: niadigitalbrand.com #optional
+    linkedin: erikaportes #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: erikaportes
     
-    twitter: 'webjeda' #optional
+    twitter: 'erikaportes' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # Languages you speak, levels include: Native, Professional
